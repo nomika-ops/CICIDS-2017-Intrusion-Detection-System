@@ -1,0 +1,13 @@
+Feature,Most Common Value %
+Bwd PSH Flags,100.0
+Fwd URG Flags,99.9968
+Bwd URG Flags,100.0
+RST Flag Count,99.9728
+CWE Flag Count,99.9968
+ECE Flag Count,99.9727
+Fwd Avg Bytes/Bulk,100.0
+Fwd Avg Packets/Bulk,100.0
+Fwd Avg Bulk Rate,100.0
+Bwd Avg Bytes/Bulk,100.0
+Bwd Avg Packets/Bulk,100.0
+Bwd Avg Bulk Rate,100.0

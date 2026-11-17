@@ -1,0 +1,12 @@
+# Starting dependency list for the preserved research scripts; verify versions before reproducing experiments.
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
+xgboost
+lightgbm
+catboost
+openpyxl
+joblib

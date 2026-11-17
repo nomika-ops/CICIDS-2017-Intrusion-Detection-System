@@ -1,0 +1,9 @@
+Feature,Unique Values,Data Type
+Bwd PSH Flags,1,int64
+Fwd Avg Bulk Rate,1,int64
+Bwd Avg Bytes/Bulk,1,int64
+Bwd Avg Packets/Bulk,1,int64
+Fwd Avg Packets/Bulk,1,int64
+Fwd Avg Bytes/Bulk,1,int64
+Bwd Avg Bulk Rate,1,int64
+Bwd URG Flags,1,int64

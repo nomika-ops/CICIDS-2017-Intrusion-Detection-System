@@ -1,0 +1,28 @@
+Feature 1,Feature 2,Correlation
+Total Length of Fwd Packets,Subflow Fwd Bytes,1.0
+Total Backward Packets,Subflow Bwd Packets,1.0
+Total Fwd Packets,Subflow Fwd Packets,1.0
+Bwd Packet Length Mean,Avg Bwd Segment Size,1.0
+Fwd PSH Flags,SYN Flag Count,1.0
+Fwd Header Length,Fwd Header Length.1,1.0
+Fwd URG Flags,CWE Flag Count,1.0
+Total Length of Bwd Packets,Subflow Bwd Bytes,1.0
+Fwd Packet Length Mean,Avg Fwd Segment Size,1.0
+Total Backward Packets,Subflow Fwd Packets,0.9991
+Total Fwd Packets,Subflow Bwd Packets,0.9991
+Subflow Fwd Packets,Subflow Bwd Packets,0.9991
+Total Fwd Packets,Total Backward Packets,0.9991
+Flow Duration,Fwd IAT Total,0.9985
+Flow IAT Max,Fwd IAT Max,0.9981
+Packet Length Mean,Average Packet Size,0.9978
+RST Flag Count,ECE Flag Count,0.9978
+Total Fwd Packets,Subflow Bwd Bytes,0.997
+Total Fwd Packets,Total Length of Bwd Packets,0.997
+Subflow Fwd Packets,Subflow Bwd Bytes,0.997
+Total Length of Bwd Packets,Subflow Fwd Packets,0.997
+Total Backward Packets,Subflow Bwd Bytes,0.9944
+Total Backward Packets,Total Length of Bwd Packets,0.9944
+Total Length of Bwd Packets,Subflow Bwd Packets,0.9944
+Subflow Bwd Packets,Subflow Bwd Bytes,0.9944
+Idle Mean,Idle Max,0.9902
+Idle Mean,Idle Min,0.9901

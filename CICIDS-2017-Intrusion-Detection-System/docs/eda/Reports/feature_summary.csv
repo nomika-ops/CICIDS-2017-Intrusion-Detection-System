@@ -1,0 +1,80 @@
+Feature,Unique Values,Data Type
+Bwd PSH Flags,1,int64
+Fwd Avg Bulk Rate,1,int64
+Bwd Avg Bytes/Bulk,1,int64
+Bwd Avg Packets/Bulk,1,int64
+Fwd Avg Packets/Bulk,1,int64
+Fwd Avg Bytes/Bulk,1,int64
+Bwd Avg Bulk Rate,1,int64
+Bwd URG Flags,1,int64
+Fwd URG Flags,2,int64
+Fwd PSH Flags,2,int64
+RST Flag Count,2,int64
+SYN Flag Count,2,int64
+ACK Flag Count,2,int64
+PSH Flag Count,2,int64
+URG Flag Count,2,int64
+CWE Flag Count,2,int64
+ECE Flag Count,2,int64
+FIN Flag Count,2,int64
+Label,15,object
+min_seg_size_forward,28,int64
+Down/Up Ratio,31,int64
+Min Packet Length,215,int64
+Fwd Packet Length Min,384,int64
+Bwd Packet Length Min,583,int64
+act_data_pkt_fwd,1093,int64
+Total Fwd Packets,1432,int64
+Subflow Fwd Packets,1432,int64
+Total Backward Packets,1747,int64
+Subflow Bwd Packets,1747,int64
+Fwd Header Length.1,3771,int64
+Fwd Header Length,3771,int64
+Bwd Header Length,3945,int64
+Bwd Packet Length Max,4838,int64
+Fwd Packet Length Max,5279,int64
+Max Packet Length,5708,int64
+Init_Win_bytes_forward,12144,int64
+Init_Win_bytes_backward,13110,int64
+Total Length of Fwd Packets,17928,int64
+Subflow Fwd Bytes,17928,int64
+Destination Port,53791,int64
+Total Length of Bwd Packets,64698,int64
+Subflow Bwd Bytes,64738,int64
+Bwd IAT Min,66074,int64
+Avg Fwd Segment Size,99716,float64
+Fwd Packet Length Mean,99716,float64
+Fwd IAT Min,110631,int64
+Flow IAT Min,136316,int64
+Avg Bwd Segment Size,147611,float64
+Bwd Packet Length Mean,147614,float64
+Idle Max,149737,int64
+Active Min,175670,int64
+Idle Std,197616,float64
+Active Std,202826,float64
+Average Packet Size,212207,float64
+Packet Length Mean,215826,float64
+Idle Mean,222016,float64
+Idle Min,223888,int64
+Bwd Packet Length Std,248869,float64
+Fwd Packet Length Std,253909,float64
+Active Max,299565,int64
+Active Mean,326325,float64
+Bwd IAT Max,368285,int64
+Packet Length Variance,405565,float64
+Packet Length Std,412246,float64
+Bwd IAT Total,414928,int64
+Fwd IAT Max,437316,int64
+Fwd IAT Total,493098,int64
+Flow IAT Max,580288,int64
+Bwd IAT Mean,670824,float64
+Fwd IAT Std,700313,float64
+Bwd IAT Std,709042,float64
+Fwd IAT Mean,737737,float64
+Flow Duration,1050898,int64
+Flow IAT Std,1056642,float64
+Bwd Packets/s,1107886,float64
+Flow IAT Mean,1166310,float64
+Fwd Packets/s,1220423,float64
+Flow Packets/s,1240163,float64
+Flow Bytes/s,1593907,float64

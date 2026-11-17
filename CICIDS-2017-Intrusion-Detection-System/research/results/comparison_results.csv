@@ -1,0 +1,3 @@
+Model,Accuracy,Test_Samples,Features
+Binary,0.9996466735608411,232080,78
+Multi-class,0.636802298381776,333452,78

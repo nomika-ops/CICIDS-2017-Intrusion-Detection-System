@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local datasets and generated data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Trained model binaries (add deliberately only after review)
+models/*
+!models/.gitkeep
+*.pkl
+*.joblib
+
+# Runtime outputs
+logs/
+outputs/
+*.log
